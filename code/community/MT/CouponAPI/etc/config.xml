@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MT_CouponAPI>
+            <version>0.1.0</version>
+        </MT_CouponAPI>
+    </modules>
+    <global>
+        <models>
+            <couponapi>
+                <class>MT_CouponAPI_Model</class>
+            </couponapi>
+        </models>
+    </global>
+</config>
